@@ -1,4 +1,4 @@
-module github.com/JustinTimperio/osinfo
+module github.com/mskonovalov/osinfo
 
 go 1.16
 

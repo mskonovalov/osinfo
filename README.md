@@ -38,7 +38,7 @@ OSinfo is a cross-platform OS Version collection tool. It is designed to unify m
    import (
    	    "fmt"
    	    
-	    "github.com/JustinTimperio/osinfo"
+	    "github.com/mskonovalov/osinfo"
    )
 
    func main() {

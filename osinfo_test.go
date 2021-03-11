@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/JustinTimperio/osinfo"
+	"github.com/mskonovalov/osinfo"
 )
 
 func TestMain(m *testing.M) {
